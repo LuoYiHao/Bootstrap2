@@ -1,0 +1,38 @@
+.management-console {
+	padding: 0 5px 5px 5px;
+	margin-bottom: 20px;
+}
+h1 {
+	padding-bottom: 20px;
+}
+strong {
+	padding-right: 4px;
+}
+.list-group-info li {
+	margin: 10px;
+}
+.col-md-2color {
+	background-color: #ddd;
+	height: 750px;
+	padding: 5px 0;
+}
+.progressLabel1 {
+	margin-bottom: 10px;
+	display: block;
+	width: 25%;
+}
+.progressLabel2 {
+	margin-bottom: 10px;
+	display: block;
+	width: 15%;
+}
+.sidebar-style li:hover a {
+	background-color: blue !important;
+	color: white;
+}
+.hr1 {
+	border: none;
+}
+.navbar {
+	margin-bottom: 0;
+}
